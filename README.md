@@ -28,7 +28,7 @@ After deployment, you can customize the domain or make other modifications as ne
 ### 3. Set Environment Variables  
 In your Vercel dashboard, add the following environment variables:
 
-| Variable Name              | Description |
+| Variable Name              | Description            |
 |----------------------------|------------------------|
 | `ADMIN_ACCOUNT_USERNAME`   | Your admin email       |
 | `ADMIN_ACCOUNT_PASSWORD`   | Your admin password    |
